@@ -1,0 +1,8 @@
+User passwords
+admin:SuperS5ecretPas alikapucu.demo.altostrat.com
+
+accounttest@alikapucu.demo.altostrat.com:NewPassword
+
+
+
+
